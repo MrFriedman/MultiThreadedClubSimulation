@@ -1,0 +1,59 @@
+commit dd1c83e4e58494b518a242b132a07f513e6e4ce2
+Author: Dylan <dylanfriedman17@gmail.com>
+Date:   Sun Aug 27 20:44:21 2023 +0200
+
+    code is working 100%. fixed max clubgoer error
+
+commit c21b5711355a810f315d26de5cc264f971f0bac4
+Author: Dylan <dylanfriedman17@gmail.com>
+Date:   Sat Aug 26 15:53:27 2023 +0200
+
+    redid locking in clubGrid
+
+commit a13cd09209db1d9081ac12f2fd5edcf3c4b11c88
+Author: Dylan <dylanfriedman17@gmail.com>
+Date:   Fri Aug 25 21:27:41 2023 +0200
+
+    added java monitor patterns
+
+commit 496e74b060cb0f2a318855f747a0851469ba031b
+Author: Dylan <dylanfriedman17@gmail.com>
+Date:   Fri Aug 25 18:30:35 2023 +0200
+
+    sim working still need fix
+
+commit 47474b176ee11ad7c9db14fd2f7b1e6322774a52
+Author: Dylan <dylanfriedman17@gmail.com>
+Date:   Wed Aug 23 21:03:27 2023 +0200
+
+    Need to still fix locking 
+
+commit b65984ab8d88c60fd813ef4471e6cd85b1e1b446
+Author: Dylan <dylanfriedman17@gmail.com>
+Date:   Tue Aug 22 16:25:48 2023 +0200
+
+    Changed the start pause button
+
+commit f7c8dca33196f95930f00b876228bde9932e1a63
+Author: Dylan <dylanfriedman17@gmail.com>
+Date:   Tue Aug 22 13:10:53 2023 +0200
+
+    implimented CountDownLatch and AtomicBool for start n pause
+
+commit 643ecedca15d3382c335523f23e81d2d622ab85a
+Author: Dylan <dylanfriedman17@gmail.com>
+Date:   Tue Aug 22 12:52:37 2023 +0200
+
+    Added some code to the start and pause button
+
+commit 275996457a1d1fd97345be3d8e1cb29ed4221195
+Author: Dylan <dylanfriedman17@gmail.com>
+Date:   Mon Aug 21 19:06:14 2023 +0200
+
+    First commit
+
+commit 10a5f232a9a0a9b134480716684f4e67d040a5c6
+Author: Dylan Friedman <FRDDYL002@myuct.ac.za>
+Date:   Mon Aug 21 11:00:35 2023 +0200
+
+    Initial commit
